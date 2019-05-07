@@ -11,6 +11,7 @@ definition.  These changes were last applied April 15, 2019.
   * [clinicalprofile](source/clinicalprofile) - clinical profile model, documentation and examples
   * [compartments.xml](source/compartments.xml) - Excel Spreadsheet that associates patient / provider / links with resource.  
   * [fhir.ini](source/fhir.ini) - basic information about Clinical Profile resource (maturity level, committee, etc.)
+  * [hierarchy.xml](source/hierarchy.xml) - include page entry
   * [modules-fragment.html](source/modules-fragment.html) - Include ClinicalProfile under home page Clinical Reasoning section
   * [newnavbar.html](source/newnavbar.html) - Adds header to FHIR navigation bars
   * [resourcelist.html](source/resourcelist.html) - Add clinical profile to Evidence-Based Medicine resources listing
